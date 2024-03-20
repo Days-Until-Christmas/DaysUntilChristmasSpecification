@@ -34,23 +34,36 @@
 ### Would be nice
 
 - It would be nice for the application to be executable without the need of a terminal or startup script
+
 - It would be nice for the application to be small in file size. Applications will be awarded the following:
-  - 🥇: < 400KB
-  - 🥈: < 3MB
-  - 🥉: <= 10MB
-  - 💩: > 10MB
+
+  |Grade|File size|
+  |:-:|-|
+  |🥇|Under 400KB|
+  |🥈|Under 3MB|
+  |🥉|Under (or equal to) 10MB|
+  |💩|Over 10MB|
+
 - It would be nice for the application to have a small running memory footprint. Applications will be awarded the following:
+
   - For Windows:
-    - 🥇: < 5MB
-    - 🥈: < 20MB
-    - 🥉: < 40MB
-    - 💩: <= 75MB
-    - 🗑️: > 75MB
+
+    |Grade|Memory usage (RAM)|
+    |:-:|-|
+    |🥇|Under 5MB|
+    |🥈|Under 20MB|
+    |🥉|Under 40MB|
+    |💩|Under (or equal to) 75MB|
+    |🗑️|Over 75MB|
+
   - For MacOS:
-    - 🥇: < 20MB
-    - 🥈: < 40MB
-    - 🥉: <= 75MB
-    - 💩🗑️: > 75MB
+
+    |Grade|Memory usage (RAM)|
+    |:-:|-|
+    |🥇|Under 20MB|
+    |🥈|Under 40MB|
+    |🥉|Under (or equal to) 75MB|
+    |💩🗑️|Over 75MB|
 
 ## History
 
