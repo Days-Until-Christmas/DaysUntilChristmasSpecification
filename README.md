@@ -14,7 +14,7 @@
 ### Should have
 
 - The time until Christmas should update dynamically without user interaction
-- The process should exit cleanly when the native desktop application close button (`X`) is pressed
+- The process should exit cleanly when the native desktop application close button (`✖`) is pressed
   - The process should exit with exit code 0
   - The process should not leave orphaned processes
 
